@@ -1,5 +1,7 @@
 # PhotoAlbum
-A photo album application that can create animated photos by reading in a text file. 
+A photo album application that can create animated photos by reading in a text file. A sample file can be found in resources/buildings.txt.
+
+The file contains a list of commands our program needs to execute. Our program will create shapes based on the type of the shapes, positions, sizes, that it reads from the input file. It will create screenshots if the file asks the program to create a screenshot.
 
 The photo album have two different views, one is an interactive graphical view, the other one is a static HTML view
 
